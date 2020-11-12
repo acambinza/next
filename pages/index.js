@@ -4,8 +4,7 @@ import {useState} from 'react';
 function Home() {
     return (
         <div>
-            <div>Home Contador</div>
-            <div>Home Contador 2</div>
+            <div>Pagina Incial</div>
             <Contador />
         </div>
     )
