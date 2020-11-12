@@ -5,6 +5,7 @@ function Home() {
     return (
         <div>
             <div>Home Contador</div>
+            <div>Home Contador 2</div>
             <Contador />
         </div>
     )
